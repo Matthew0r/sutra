@@ -1,15 +1,13 @@
 # SUTRA
 
-**A desktop app for comparing quantitative data across the literature.**
+**A desktop app for comparing quantitative data across scientific literature.**
 
 SUTRA turns the numbers reported in dozens or hundreds of papers into one
-checked, comparable dataset, and makes the figures a review needs from it:
+checked, comparable dataset, and makes figures from it:
 correlation matrices, scatter and Ragone plots, distributions, rate and cycling
 curves, per-paper profiles, and a "where does my material sit" benchmark.
 
-It was built for a review of biomass-derived carbon supercapacitors and ships
-with that field's variables. Profiles for other research fields are in
-development.
+It is in active development to be used for any material science field, now with customazabile varaibles/profiles/databases and simplified data entry compatible with LLMs and ML frameworks.
 
 ## Download
 
