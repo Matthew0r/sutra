@@ -1,5 +1,7 @@
 # SUTRA
 ![SUTRA: papers → data entry → your database → explore → figures and data](sutra_flow.png)
+
+
 **A desktop app for comparing quantitative and qualitative data across scientific literature, targeting material science.**
 
 SUTRA collects numbers reported in dozens or hundreds of papers into one
